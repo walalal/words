@@ -19,3 +19,6 @@ yarn run build
 ```
 yarn run lint
 ```
+
+preview
+http://cowardly-point.surge.sh/
